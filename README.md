@@ -78,3 +78,5 @@ Sarpila, O., Grahn, A., Koivula, A., Stürmer, E & Tuovinen, E. (2020). Randomiz
 GNU Genral Public License Version 3
 
 ## Contact information
+
+Eero Stürmer (firstname.lastname@utu.fi)

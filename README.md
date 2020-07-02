@@ -36,11 +36,22 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
  - somabase and rafflebase, check/edit settings.py for details
 ### Add resources for the tool
  - createsuperuser
- - add Attribures
+ - add Attribures-object(s)
+   - an example of attribute.likert-fields acceptable value:
+ ```
+ [
+  {"label":"5 Erittäin maskuliininen","value":5},
+  {"label":"4","value":4},
+  {"label":"3","value":3},
+  {"label":"2","value":2},
+  {"label":"1 Ei lainkaan maskuliininen","value":1},
+  {"label":"Tunnistan kuvassa esiintyvän henkilön","value":0}
+ ]
+```
  - add Questionneer-object for each respondent
  - add pictures in backend/media/picture/
- - at the moment the tool only links .jpg files
- - add Picture-object for each picture in /picture
+   - the tool only links .jpg files
+   - add Picture-object for each picture in /picture
 ### running
  - ./manage.py runserver
  - npm start

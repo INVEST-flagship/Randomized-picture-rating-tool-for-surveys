@@ -20,16 +20,32 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
 ## About the tool
 
 ### Summary
-(lyhyesti mitä tekee, voin muotoilla tän jos jotain roiskit nyt +
+- Tool is meant for rating pictures randomly pulled from the picture pool.
+- It consists roughly on 4 parts: landing page, background information questions, actual rating and feedback/raffle
+- rating scales are determined by adding attribute objects into database via django admin tool. The attributes are then assigned to questionnaire objects which represent single respondent in the system.
+- once the scales have been determined the UI will construct group of radiobuttons with value and label fields.
 
-### Prerequisites
-language, language versions, package managers, operating systems. Anything that isn’t covered as part of the project’s actual installation.
 
-### Installation
-Demonstrate installation with commands
-
-### Usage
-Demonstrate usage with as many examples as possible
+## Installing development environment
+### requirements:
+ - python 3.6+
+ - Node & npm
+ - postgresql dev
+### Installing dependencies
+ - pip -r requirements.txt
+ - npm install
+### Create database
+ - somabase and rafflebase, check/edit settings.py for details
+### Add resources for the tool
+ - createsuperuser
+ - add Attribures
+ - add Questionneer-object for each respondent
+ - add pictures in backend/media/picture/
+ - at the moment the tool only links .jpg files
+ - add Picture-object for each picture in /picture
+### running
+ - ./manage.py runserver
+ - npm start
 
 ## Contributors and how to cite
 

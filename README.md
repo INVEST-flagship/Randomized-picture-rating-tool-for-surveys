@@ -33,6 +33,8 @@ Demonstrate usage with as many examples as possible
 
 ## Contributors and how to cite
 
+Sarpila, O., Grahn, A., Koivula, A., Stürmer, E & Tuovinen, E. (2020).SOMA-picture-review: v1.0 (Version v1.0). Zenodo.
+
 ## Licence information
 
 ## Contact information

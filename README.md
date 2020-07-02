@@ -13,7 +13,7 @@ The project aims at exploring a new social mechanism that could explain the econ
 
 ## About authors
 
-The principal investigator of the research project is Outi Sarpila from the Department of Social Sciences of the University of Turku as part of the INVEST research flagship. The project involves senior researcher Erica Åberg, doctoral student Iida Kukkonen, university teacher Aki Koivula, senior researcher Tero Pajunen and research Assistant Anna Grahn.
+The principal investigator of the research project is Outi Sarpila from the Department of Social Sciences of the University of Turku as part of the INVEST research flagship. The project involves senior researcher Erica Åberg, doctoral student Iida Kukkonen, university teacher Aki Koivula, senior researcher Tero Pajunen and research assistant Anna Grahn.
 
 More information in Finnish: https://soma.utu.fi/tutkijat/
 

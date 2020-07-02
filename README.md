@@ -30,8 +30,15 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
  - Node & npm
  - postgresql dev
 ### Installing
- - pip -r requirements.txt
- - npm install
+
+```
+ pip -r requirements.txt
+ ```
+ 
+ ```
+ npm install
+ ```
+ 
 ### Create database
  - somabase and rafflebase, check/edit settings.py for details
 ### Add resources for the tool
@@ -53,13 +60,21 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
    - the tool only links .jpg files
    - add Picture-object for each picture in /picture
 ### running
- - ./manage.py runserver
- - npm start
+ 
+ ```
+ ./manage.py runserver
+ ```
+ 
+ ```
+ npm start
+ ```
 
 ## Contributors and how to cite
 
-Sarpila, O., Grahn, A., Koivula, A., Stürmer, E & Tuovinen, E. (2020).SOMA-picture-review: v1.0 (Version v1.0). Zenodo.
+Sarpila, O., Grahn, A., Koivula, A., Stürmer, E & Tuovinen, E. (2020). Randomized picture rating tool for surveys: v1.0 (Version v1.0). Zenodo.
 
 ## Licence information
+
+GNU Genral Public License Version 3
 
 ## Contact information

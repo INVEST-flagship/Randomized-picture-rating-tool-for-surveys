@@ -71,6 +71,7 @@ npm start
 ## Contributors and how to cite
 
 Sarpila, O., Grahn, A., Koivula, A., Stürmer, E & Tuovinen, E. (2020). Randomized picture rating tool for surveys: v1.0 (Version v1.0). Zenodo.
+10.5281/zenodo.3928248
 
 ## Licence information
 

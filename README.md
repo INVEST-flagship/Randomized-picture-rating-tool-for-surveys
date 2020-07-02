@@ -18,20 +18,18 @@ The principal investigator of the research project is Outi Sarpila from the Depa
 More information in Finnish: https://soma.utu.fi/tutkijat/
 
 ## About the tool
-
 ### Summary
 - Tool is meant for rating pictures randomly pulled from the picture pool.
 - It consists roughly on 4 parts: landing page, background information questions, actual rating and feedback/raffle
-- rating scales are determined by adding attribute objects into database via django admin tool. The attributes are then assigned to questionnaire objects which represent single respondent in the system.
-- once the scales have been determined the UI will construct group of radiobuttons with value and label fields.
-
+- Texts and scales related to rating can be changed by editing the database.
+- the actual ratings and background information of the respondents are saved in one database while the information regarding raffle (which obviously includes contact information) is stored in separate database.
 
 ## Installing development environment
-### requirements:
+### Requirements:
  - python 3.6+
  - Node & npm
  - postgresql dev
-### Installing dependencies
+### Installing
  - pip -r requirements.txt
  - npm install
 ### Create database

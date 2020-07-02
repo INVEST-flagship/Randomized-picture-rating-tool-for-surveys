@@ -24,9 +24,9 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
 
 ## Installing development environment
 ### Requirements:
- - python 3.6+
+ - Python 3.6+
  - Node & npm
- - postgresql dev
+ - Postgresql dev
 ### Installing
 
 ```

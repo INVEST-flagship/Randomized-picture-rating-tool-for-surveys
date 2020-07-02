@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+*/migrations/*
+*backend/static
+!*/migrations/__init__.py
+backend/media/pictures/*
+settings.py

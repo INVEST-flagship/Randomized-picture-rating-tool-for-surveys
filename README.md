@@ -59,7 +59,8 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
  - add pictures in backend/media/picture/
    - the tool only links .jpg files
    - add Picture-object for each picture in /picture
-### running
+   
+### Running
  
  ```
  ./manage.py runserver

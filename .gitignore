@@ -4,4 +4,3 @@ __pycache__
 *backend/static
 !*/migrations/__init__.py
 backend/media/pictures/*
-settings.py

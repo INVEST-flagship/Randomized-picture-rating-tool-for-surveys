@@ -45,12 +45,12 @@ npm install
    - an example of attribute.likert-fields acceptable value:
  ```
  [
-  {"label":"5 Erittäin maskuliininen","value":5},
+  {"label":"5 Very masculine","value":5},
   {"label":"4","value":4},
   {"label":"3","value":3},
   {"label":"2","value":2},
-  {"label":"1 Ei lainkaan maskuliininen","value":1},
-  {"label":"Tunnistan kuvassa esiintyvän henkilön","value":0}
+  {"label":"1 Not masculine at all","value":1},
+  {"label":"I recognize the person in the picture","value":0}
  ]
 ```
  - add Questionneer-object for each respondent

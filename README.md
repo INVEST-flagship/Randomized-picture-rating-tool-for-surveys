@@ -76,7 +76,7 @@ Sarpila, O., Grahn, A., Koivula, A., Stürmer, E & Tuovinen, E. (2020). Randomiz
 
 ## Licence information
 
-GNU Genral Public License Version 3
+GNU Affero General Public License v3.0
 
 ## Contact information
 

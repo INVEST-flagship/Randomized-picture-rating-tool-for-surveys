@@ -20,7 +20,7 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
 - Tool is meant for rating pictures randomly pulled from the picture pool.
 - It consists roughly on 4 parts: landing page, background information questions, actual rating and feedback/raffle
 - Texts and scales related to rating can be changed by editing the database.
-- the actual ratings and background information of the respondents are saved in one database while the information regarding raffle (which obviously includes contact information) is stored in separate database.
+- The ratings and background information of the respondents are saved in one database while the information regarding raffle (which obviously includes contact information) is stored in separate database.
 
 ## Installing development environment
 ### Requirements:

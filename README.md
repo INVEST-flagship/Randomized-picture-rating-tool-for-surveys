@@ -1,4 +1,4 @@
-# SOMA-picture-review
+# Randomized picture rating tool for surveys
 An online tool for research participants to evaluate images in categories defined by researchers.
 
 ## About SOMA research project:

@@ -30,12 +30,12 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
 ### Installing
 
 ```
- pip -r requirements.txt
- ```
+pip -r requirements.txt
+```
  
- ```
- npm install
- ```
+```
+npm install
+```
  
 ### Create database
  - somabase and rafflebase, check/edit settings.py for details
@@ -60,13 +60,13 @@ More information in Finnish: https://soma.utu.fi/tutkijat/
    
 ### Running
  
- ```
- ./manage.py runserver
- ```
+```
+./manage.py runserver
+```
  
- ```
- npm start
- ```
+```
+npm start
+```
 
 ## Contributors and how to cite
 

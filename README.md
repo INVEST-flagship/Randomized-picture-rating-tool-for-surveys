@@ -31,7 +31,7 @@ Demonstrate installation with commands
 ### Usage
 Demonstrate usage with as many examples as possible
 
-## Contributors and how to cite?
+## Contributors and how to cite
 
 ## Licence information
 

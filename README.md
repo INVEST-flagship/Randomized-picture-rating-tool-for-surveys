@@ -18,3 +18,21 @@ The principal investigator of the research project is Outi Sarpila from the Depa
 More information in Finnish: https://soma.utu.fi/tutkijat/
 
 ## About the tool
+
+### Summary
+(lyhyesti mitä tekee, voin muotoilla tän jos jotain roiskit nyt +
+
+### Prerequisites
+language, language versions, package managers, operating systems. Anything that isn’t covered as part of the project’s actual installation.
+
+### Installation
+Demonstrate installation with commands
+
+### Usage
+Demonstrate usage with as many examples as possible
+
+## Contributors and how to cite?
+
+## Licence information
+
+## Contact information
